@@ -1,0 +1,5 @@
+function fevaluate2()
+ {	
+ alert("Evaluation de: "+struct.hydramember[tem].title);
+ }
+ 
